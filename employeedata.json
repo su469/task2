@@ -1,0 +1,154 @@
+{
+  "employeedata": [
+    {
+      "id": 1,
+      "name": "Nick",
+      "gender": "Male",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 2,
+      "name": "Aaron",
+      
+      "gender": "Male",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 3,
+      "name": "Antonio",
+      
+      "gender": "Male",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 4,
+      "name": "Brayden. ",
+      
+      "gender": "Male",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 5,
+      "name": "Devin",
+      
+      
+      "gender": "Male",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 6,
+      "name": "Diego",
+      
+      "gender": "Male",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 7,
+      "name": "Ackerley",
+      
+      "gender": "Male",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 8,
+      "name": "Sophia",
+      
+      "gender": "Female",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 9,
+      "name": "Fatima",
+      
+      "gender": "Female",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 10,
+      "name": "Elizabeth",
+      
+      "gender": "Female",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 11,
+      "name": "Amelia",
+      
+      "gender": "Female",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id":12,
+      "name": "Harper",
+      
+      "gender": "Female",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 13,
+      "name": "Chloe",
+      
+      "gender": "Female",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 14,
+      "name": "Emma",
+      
+      "gender": "Female",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    },
+    {
+      "id": 15,
+      "name": "Scarlett",
+      
+      "gender": "Female",
+      "role":"Software Engineer",
+      "skill":"Html,Css,Bootstrap,Angular",
+      "experience":"fresher"
+
+    }
+  ]
+}
